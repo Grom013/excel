@@ -1,3 +1,2 @@
-import './css/index.scss'
-
-console.log('Hello World!d')
+import './scss/index.scss';
+console.log('Hello World!d');
